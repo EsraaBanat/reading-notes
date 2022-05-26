@@ -6,7 +6,7 @@
  
 |Prep Work p1   | Prep Work p2 | Week 1 | Week 2   | Week3   | Week 4   | Week 5   | Week 6   | Week 7   |
 |---|---|---|---|---|---|---|---|---|
-|  [SQL](/SQL.md) |   |   |   |   |   |   |   |   |
+|  [introduction to SQL](/SQL.md) |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
