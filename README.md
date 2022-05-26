@@ -2,13 +2,11 @@
 ### In this website I will share my concise observations and outlines of what I am reading in this period about different subjects related to web development, so I hope you to enjoy what I will write *successively* :see_no_evil:
  <br>
 
- ## 1. Code 102 - Intro to Software Development
- <br>
-
- ## 2. Code 201 - Foundations of Software Development
-  <br>
-
- ## 3. Code 301 - Intermediate Software Development
-  <br>
-
- ## 4. Code 401 - Advanced Software Development
+ ##  Code 401 - Advanced Software Development
+ 
+|Prep Work p1   | Prep Work p2 | Week 1 | Week 2   | Week3   | Week 4   | Week 5   | Week6   | Week 7   |
+|-[SQL](/SQL.md)--|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
