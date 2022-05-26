@@ -4,7 +4,7 @@
 
  ##  Code 401 - Advanced Software Development
  
-|Prep Work p1   | Prep Work p2 | Week 1 | Week 2   | Week3   | Week 4   | Week 5   | Week 6   | Week 7   |
+|Prep Work p1   | Prep Work p2 | Week1 | Week2   | Week3   | Week4   | Week5   | Week6   | Week7   |
 |---|---|---|---|---|---|---|---|---|
 |  [introduction to SQL](/SQL.md) |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
