@@ -6,7 +6,7 @@
 - **ls** is an abbreviation for list and it tells us what is in our current location
 - **Absolute paths** specify a location (file or directory) in relation to the root directory
 - **Relative paths** specify a location (file or directory) in relation to where we currently are in the system
-- **~ (tilde)** a shortcut for your home directory
+- **~(tilde)** a shortcut for your home directory
 - **. (dot)** a reference to your current directory.
 - **.. (dotdot)** a reference to the parent directory
 - **cd** is an abbreviation for change directory and it takes [location] argument
