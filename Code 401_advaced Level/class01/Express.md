@@ -26,9 +26,10 @@ NPM (Node Package Manager):the world's largest Software Registry.Open source dev
 
 npm consists of three distinct components:
 
-the website
-the Command Line Interface (CLI)
-the registry
+- the website
+- the Command Line Interface (CLI)
+- the registry
+
 
 ### NPM Uses:
 
