@@ -94,7 +94,7 @@ CD (continuous deliver) : is developing to release at any time
 - 505 HTTP Version Not Supported
 - 599 Network connect timeout error
 
-## Referances :
+## References :
 
 - [Express and Node](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [NPM](https://docs.npmjs.com/about-npm)

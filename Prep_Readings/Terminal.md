@@ -52,7 +52,7 @@
 
 
 
-## Referances :
+## References :
 [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
 
 [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
