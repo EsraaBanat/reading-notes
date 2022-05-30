@@ -5,10 +5,10 @@
  ##  Code 401 - Advanced Software Development
  - ## Table of Contents
  
-|Prep Work p1   | Prep Work p2 | Week1 | Week2   | Week3   | Week4   | Week5   | Week6   | Week7   |
+|Prep Work p1   | Week1 | Week2 | Week3   | Week4   | Week5   | Week6   | Week7   | Week8   |
 |---|---|---|---|---|---|---|---|---|
-|  [introduction to SQL](/Prep_Readings/SQL.md) | | [Express](/Code%20401_advaced%20Level/class01/Express.md)  |   |   |   |   |   |   |
-|  [Practice in the Terminal](/Prep_Readings/Terminal.md)  |   |   |   |   |   |   |   |   |
+|  [introduction to SQL](/Prep_Readings/SQL.md) | [Express](/Code%20401_advaced%20Level/class01/Express.md) |  |  |   |   |   |   |   |
+|  [Practice in the Terminal](/Prep_Readings/Terminal.md)  | [Express REST API](./Code%20401_advaced%20Level/class02/Express%20REST%20API.md)  |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 
