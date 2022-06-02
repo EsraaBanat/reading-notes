@@ -9,7 +9,7 @@
 |---|---|---|---|---|---|---|---|---|
 |  [introduction to SQL](/Prep_Readings/SQL.md) | [Express](./Advanc%20Level/class01/Express.md) |  |  |   |   |   |   |   |
 |  [Practice in the Terminal](/Prep_Readings/Terminal.md)  | [Express REST API](./Advanc%20Level/class02/Express%20REST%20API.md)  |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+|   | [Linked Lists & Big O Notation](./Advanc%20Level/class03/BigO%26linked_lists.md) |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 
 ## Things I want to know more about
