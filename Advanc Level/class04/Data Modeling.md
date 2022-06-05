@@ -112,12 +112,12 @@ many-to-many ---------- * .. *
 
 # References
 
-## [NoSQL vs SQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+### [NoSQL vs SQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
-## [SQL Modeling Techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
+### [SQL Modeling Techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
 
-## [Sequelize API](https://sequelize.org/docs/v6/)
-## [Normalization](https://www.essentialsql.com/database-normalization/)
+### [Sequelize API](https://sequelize.org/docs/v6/)
+### [Normalization](https://www.essentialsql.com/database-normalization/)
 
 
 
