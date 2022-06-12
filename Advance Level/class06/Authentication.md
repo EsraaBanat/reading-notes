@@ -14,19 +14,7 @@ The benefit of hashing is that if someone steals the database with hashed passwo
 
 - **Hash Collision attack:** Hash functions have infinite input length and a predefined output length, so there is inevitably going to be the possibility of two different inputs that produce the same output hash.
 
-As a PHP developer, you can simply use the crypt() function with a Blowfish required salt.
-
-```
-<?php
-// Generate a password using a random salt
-password_hash($password, PASSWORD_BCRYPT);
-// Generate a password with a known salt
-password_hash($password, PASSWORD_BCRYPT, array("salt" => $salt));
-// This will cause crypt to generate a bcrypt hash
-$salt = '$2y$10$' . mcrypt_create_iv(22);
-$salted_password = crypt($password, $salt)
-```
-This method of hashing passwords is solid enough for most web applications that stores users' passwords and other sensitive data.
+**Bcrypt** is an adaptive hash function based on the Blowfish symmetric block cipher cryptographic algorithm and introduces a work factor (also known as security factor), which allows you to determine how expensive the hash function will be.
 
 
 # Basic Auth :
