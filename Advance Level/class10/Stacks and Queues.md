@@ -48,6 +48,8 @@ Typically, you would check isEmpty before conducting a peek. This will ensure th
 
 ## **Queue**
 
+Common terminology for a queue is:
+
 1. `Enqueue` - Nodes or items that are added to the queue.
 2. `Dequeue` - Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised.
 3. `Front` - This is the front/first Node of the queue.
