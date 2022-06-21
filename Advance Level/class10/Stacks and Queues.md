@@ -57,7 +57,7 @@ Common terminology for a queue is:
 5. `Peek` - When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
 6. `IsEmpty` - returns true when queue is empty otherwise returns false.
 
-Queue also FIFO and LILO
+Queue is FIFO and LILO
 
 **Enqueue O(1)**
 
