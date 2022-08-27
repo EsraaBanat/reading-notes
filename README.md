@@ -30,9 +30,9 @@
 
 | **Week 9**   | **Week 10**  | **Week 11**  | **Week 12** |
 |--------------|--------------|--------------|--------------|
-| [Read 31: Context API](./Advance%20Level/class31/Context%20API.md) | [Read 34:]() | [Read 37:]() | [Read 40:]() |
+| [Read 31: Context API](./Advance%20Level/class31/Context%20API.md) | [Read 34:  API Integration](./Advance%20Level/class34/%20API%20Integration.md) | [Read 37:]() | [Read 40:]() |
 | [Read 32: Context API - Behaviors](./Advance%20Level/class32/Context%20API%20-%20Behaviors.md) | [Read 35:]() | [Read 38:]() | [Read 41:]() |
-| [Read 33:]() | [Read 36:]() | [Read 39:]() | [Read 42:]() |
+| [Read 33: `<Login />` and <`Auth />`](./Advance%20Level/class33/read33.md) | [Read 36:]() | [Read 39:]() | [Read 42:]() |
 
 
 ## Things I want to know more about
